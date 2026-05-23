@@ -1,0 +1,552 @@
+[
+  {
+    "id": "cap_mpgdc79y_x3gt9u",
+    "selector": "canvas",
+    "label": "canvas",
+    "tag": "canvas",
+    "url": "https://www.nareshkhatri.site/#skills",
+    "title": "Naresh Khatri | Full-Stack Developer",
+    "timestamp": "2026-05-22T03:37:11.638Z",
+    "innerText": "",
+    "outerHTML": "<canvas width=\"3538\" height=\"1670\" style=\"display: block; width: 100%; height: 100%;\"></canvas>",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1769,
+      "height": 835
+    },
+    "computedStyles": {
+      "display": "block",
+      "width": "1769px",
+      "height": "835px",
+      "border": "0px solid rgb(30, 41, 59)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(248, 250, 252)",
+      "font-family": "\"Archivo Black\", \"Archivo Black Fallback\", sans-serif",
+      "font-size": "16px",
+      "line-height": "24px",
+      "text-decoration": "none",
+      "overflow": "clip",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box; border: 0px solid rgb(229, 231, 235);"
+      },
+      {
+        "selector": "img, svg, video, canvas, audio, iframe, embed, object",
+        "css": "vertical-align: middle; display: block;"
+      },
+      {
+        "selector": "*",
+        "css": "border-color: hsl(var(--border));"
+      },
+      {
+        "selector": "*, ::before, ::after, ::backdrop",
+        "css": "--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: #3b82f680; --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;"
+      }
+    ]
+  },
+  {
+    "id": "cap_mpgdc8c7_hcs4w4",
+    "selector": "canvas",
+    "label": "canvas",
+    "tag": "canvas",
+    "url": "https://www.nareshkhatri.site/#skills",
+    "title": "Naresh Khatri | Full-Stack Developer",
+    "timestamp": "2026-05-22T03:37:13.015Z",
+    "innerText": "",
+    "outerHTML": "<canvas width=\"3538\" height=\"1670\" style=\"display: block; width: 100%; height: 100%;\"></canvas>",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1769,
+      "height": 835
+    },
+    "computedStyles": {
+      "display": "block",
+      "width": "1769px",
+      "height": "835px",
+      "border": "0px solid rgb(30, 41, 59)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(248, 250, 252)",
+      "font-family": "\"Archivo Black\", \"Archivo Black Fallback\", sans-serif",
+      "font-size": "16px",
+      "line-height": "24px",
+      "text-decoration": "none",
+      "overflow": "clip",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box; border: 0px solid rgb(229, 231, 235);"
+      },
+      {
+        "selector": "img, svg, video, canvas, audio, iframe, embed, object",
+        "css": "vertical-align: middle; display: block;"
+      },
+      {
+        "selector": "*",
+        "css": "border-color: hsl(var(--border));"
+      },
+      {
+        "selector": "*, ::before, ::after, ::backdrop",
+        "css": "--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: #3b82f680; --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;"
+      }
+    ]
+  },
+  {
+    "id": "cap_mpgdc8p5_o079e9",
+    "selector": "canvas",
+    "label": "canvas",
+    "tag": "canvas",
+    "url": "https://www.nareshkhatri.site/#skills",
+    "title": "Naresh Khatri | Full-Stack Developer",
+    "timestamp": "2026-05-22T03:37:13.482Z",
+    "innerText": "",
+    "outerHTML": "<canvas width=\"3538\" height=\"1670\" style=\"display: block; width: 100%; height: 100%;\"></canvas>",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1769,
+      "height": 835
+    },
+    "computedStyles": {
+      "display": "block",
+      "width": "1769px",
+      "height": "835px",
+      "border": "0px solid rgb(30, 41, 59)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(248, 250, 252)",
+      "font-family": "\"Archivo Black\", \"Archivo Black Fallback\", sans-serif",
+      "font-size": "16px",
+      "line-height": "24px",
+      "text-decoration": "none",
+      "overflow": "clip",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box; border: 0px solid rgb(229, 231, 235);"
+      },
+      {
+        "selector": "img, svg, video, canvas, audio, iframe, embed, object",
+        "css": "vertical-align: middle; display: block;"
+      },
+      {
+        "selector": "*",
+        "css": "border-color: hsl(var(--border));"
+      },
+      {
+        "selector": "*, ::before, ::after, ::backdrop",
+        "css": "--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: #3b82f680; --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;"
+      }
+    ]
+  },
+  {
+    "id": "cap_mpgdc924_jn58zi",
+    "selector": "canvas",
+    "label": "canvas",
+    "tag": "canvas",
+    "url": "https://www.nareshkhatri.site/#skills",
+    "title": "Naresh Khatri | Full-Stack Developer",
+    "timestamp": "2026-05-22T03:37:13.948Z",
+    "innerText": "",
+    "outerHTML": "<canvas width=\"3538\" height=\"1670\" style=\"display: block; width: 100%; height: 100%;\"></canvas>",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1769,
+      "height": 835
+    },
+    "computedStyles": {
+      "display": "block",
+      "width": "1769px",
+      "height": "835px",
+      "border": "0px solid rgb(30, 41, 59)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(248, 250, 252)",
+      "font-family": "\"Archivo Black\", \"Archivo Black Fallback\", sans-serif",
+      "font-size": "16px",
+      "line-height": "24px",
+      "text-decoration": "none",
+      "overflow": "clip",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box; border: 0px solid rgb(229, 231, 235);"
+      },
+      {
+        "selector": "img, svg, video, canvas, audio, iframe, embed, object",
+        "css": "vertical-align: middle; display: block;"
+      },
+      {
+        "selector": "*",
+        "css": "border-color: hsl(var(--border));"
+      },
+      {
+        "selector": "*, ::before, ::after, ::backdrop",
+        "css": "--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: #3b82f680; --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;"
+      }
+    ]
+  },
+  {
+    "id": "cap_mpgdc9g9_18g56p",
+    "selector": "canvas",
+    "label": "canvas",
+    "tag": "canvas",
+    "url": "https://www.nareshkhatri.site/#skills",
+    "title": "Naresh Khatri | Full-Stack Developer",
+    "timestamp": "2026-05-22T03:37:14.457Z",
+    "innerText": "",
+    "outerHTML": "<canvas width=\"3538\" height=\"1670\" style=\"display: block; width: 100%; height: 100%;\"></canvas>",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1769,
+      "height": 835
+    },
+    "computedStyles": {
+      "display": "block",
+      "width": "1769px",
+      "height": "835px",
+      "border": "0px solid rgb(30, 41, 59)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(248, 250, 252)",
+      "font-family": "\"Archivo Black\", \"Archivo Black Fallback\", sans-serif",
+      "font-size": "16px",
+      "line-height": "24px",
+      "text-decoration": "none",
+      "overflow": "clip",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box; border: 0px solid rgb(229, 231, 235);"
+      },
+      {
+        "selector": "img, svg, video, canvas, audio, iframe, embed, object",
+        "css": "vertical-align: middle; display: block;"
+      },
+      {
+        "selector": "*",
+        "css": "border-color: hsl(var(--border));"
+      },
+      {
+        "selector": "*, ::before, ::after, ::backdrop",
+        "css": "--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: #3b82f680; --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;"
+      }
+    ]
+  },
+  {
+    "id": "cap_mpgdc9td_mu4ynx",
+    "selector": "canvas",
+    "label": "canvas",
+    "tag": "canvas",
+    "url": "https://www.nareshkhatri.site/#skills",
+    "title": "Naresh Khatri | Full-Stack Developer",
+    "timestamp": "2026-05-22T03:37:14.929Z",
+    "innerText": "",
+    "outerHTML": "<canvas width=\"3538\" height=\"1670\" style=\"display: block; width: 100%; height: 100%;\"></canvas>",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1769,
+      "height": 835
+    },
+    "computedStyles": {
+      "display": "block",
+      "width": "1769px",
+      "height": "835px",
+      "border": "0px solid rgb(30, 41, 59)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(248, 250, 252)",
+      "font-family": "\"Archivo Black\", \"Archivo Black Fallback\", sans-serif",
+      "font-size": "16px",
+      "line-height": "24px",
+      "text-decoration": "none",
+      "overflow": "clip",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box; border: 0px solid rgb(229, 231, 235);"
+      },
+      {
+        "selector": "img, svg, video, canvas, audio, iframe, embed, object",
+        "css": "vertical-align: middle; display: block;"
+      },
+      {
+        "selector": "*",
+        "css": "border-color: hsl(var(--border));"
+      },
+      {
+        "selector": "*, ::before, ::after, ::backdrop",
+        "css": "--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: #3b82f680; --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;"
+      }
+    ]
+  },
+  {
+    "id": "cap_mpgdcakj_aeid6p",
+    "selector": "canvas",
+    "label": "canvas",
+    "tag": "canvas",
+    "url": "https://www.nareshkhatri.site/#skills",
+    "title": "Naresh Khatri | Full-Stack Developer",
+    "timestamp": "2026-05-22T03:37:15.907Z",
+    "innerText": "",
+    "outerHTML": "<canvas width=\"3538\" height=\"1670\" style=\"display: block; width: 100%; height: 100%;\"></canvas>",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1769,
+      "height": 835
+    },
+    "computedStyles": {
+      "display": "block",
+      "width": "1769px",
+      "height": "835px",
+      "border": "0px solid rgb(30, 41, 59)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(248, 250, 252)",
+      "font-family": "\"Archivo Black\", \"Archivo Black Fallback\", sans-serif",
+      "font-size": "16px",
+      "line-height": "24px",
+      "text-decoration": "none",
+      "overflow": "clip",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box; border: 0px solid rgb(229, 231, 235);"
+      },
+      {
+        "selector": "img, svg, video, canvas, audio, iframe, embed, object",
+        "css": "vertical-align: middle; display: block;"
+      },
+      {
+        "selector": "*",
+        "css": "border-color: hsl(var(--border));"
+      },
+      {
+        "selector": "*, ::before, ::after, ::backdrop",
+        "css": "--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: #3b82f680; --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;"
+      }
+    ]
+  },
+  {
+    "id": "cap_mpgdcax0_eikm5f",
+    "selector": "canvas",
+    "label": "canvas",
+    "tag": "canvas",
+    "url": "https://www.nareshkhatri.site/#skills",
+    "title": "Naresh Khatri | Full-Stack Developer",
+    "timestamp": "2026-05-22T03:37:16.356Z",
+    "innerText": "",
+    "outerHTML": "<canvas width=\"3538\" height=\"1670\" style=\"display: block; width: 100%; height: 100%;\"></canvas>",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1769,
+      "height": 835
+    },
+    "computedStyles": {
+      "display": "block",
+      "width": "1769px",
+      "height": "835px",
+      "border": "0px solid rgb(30, 41, 59)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(248, 250, 252)",
+      "font-family": "\"Archivo Black\", \"Archivo Black Fallback\", sans-serif",
+      "font-size": "16px",
+      "line-height": "24px",
+      "text-decoration": "none",
+      "overflow": "clip",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box; border: 0px solid rgb(229, 231, 235);"
+      },
+      {
+        "selector": "img, svg, video, canvas, audio, iframe, embed, object",
+        "css": "vertical-align: middle; display: block;"
+      },
+      {
+        "selector": "*",
+        "css": "border-color: hsl(var(--border));"
+      },
+      {
+        "selector": "*, ::before, ::after, ::backdrop",
+        "css": "--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: #3b82f680; --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;"
+      }
+    ]
+  },
+  {
+    "id": "cap_mpgdcb9z_uzi9qq",
+    "selector": "canvas",
+    "label": "canvas",
+    "tag": "canvas",
+    "url": "https://www.nareshkhatri.site/#skills",
+    "title": "Naresh Khatri | Full-Stack Developer",
+    "timestamp": "2026-05-22T03:37:16.823Z",
+    "innerText": "",
+    "outerHTML": "<canvas width=\"3538\" height=\"1670\" style=\"display: block; width: 100%; height: 100%;\"></canvas>",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1769,
+      "height": 835
+    },
+    "computedStyles": {
+      "display": "block",
+      "width": "1769px",
+      "height": "835px",
+      "border": "0px solid rgb(30, 41, 59)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(248, 250, 252)",
+      "font-family": "\"Archivo Black\", \"Archivo Black Fallback\", sans-serif",
+      "font-size": "16px",
+      "line-height": "24px",
+      "text-decoration": "none",
+      "overflow": "clip",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box; border: 0px solid rgb(229, 231, 235);"
+      },
+      {
+        "selector": "img, svg, video, canvas, audio, iframe, embed, object",
+        "css": "vertical-align: middle; display: block;"
+      },
+      {
+        "selector": "*",
+        "css": "border-color: hsl(var(--border));"
+      },
+      {
+        "selector": "*, ::before, ::after, ::backdrop",
+        "css": "--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: #3b82f680; --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;"
+      }
+    ]
+  },
+  {
+    "id": "cap_mpgdcbmh_ambb48",
+    "selector": "canvas",
+    "label": "canvas",
+    "tag": "canvas",
+    "url": "https://www.nareshkhatri.site/#skills",
+    "title": "Naresh Khatri | Full-Stack Developer",
+    "timestamp": "2026-05-22T03:37:17.273Z",
+    "innerText": "",
+    "outerHTML": "<canvas width=\"3538\" height=\"1670\" style=\"display: block; width: 100%; height: 100%;\"></canvas>",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1769,
+      "height": 835
+    },
+    "computedStyles": {
+      "display": "block",
+      "width": "1769px",
+      "height": "835px",
+      "border": "0px solid rgb(30, 41, 59)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(248, 250, 252)",
+      "font-family": "\"Archivo Black\", \"Archivo Black Fallback\", sans-serif",
+      "font-size": "16px",
+      "line-height": "24px",
+      "text-decoration": "none",
+      "overflow": "clip",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box; border: 0px solid rgb(229, 231, 235);"
+      },
+      {
+        "selector": "img, svg, video, canvas, audio, iframe, embed, object",
+        "css": "vertical-align: middle; display: block;"
+      },
+      {
+        "selector": "*",
+        "css": "border-color: hsl(var(--border));"
+      },
+      {
+        "selector": "*, ::before, ::after, ::backdrop",
+        "css": "--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: #3b82f680; --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;"
+      }
+    ]
+  },
+  {
+    "id": "cap_mpgdcbya_mfodyi",
+    "selector": "canvas",
+    "label": "canvas",
+    "tag": "canvas",
+    "url": "https://www.nareshkhatri.site/#skills",
+    "title": "Naresh Khatri | Full-Stack Developer",
+    "timestamp": "2026-05-22T03:37:17.698Z",
+    "innerText": "",
+    "outerHTML": "<canvas width=\"3538\" height=\"1670\" style=\"display: block; width: 100%; height: 100%;\"></canvas>",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1769,
+      "height": 835
+    },
+    "computedStyles": {
+      "display": "block",
+      "width": "1769px",
+      "height": "835px",
+      "border": "0px solid rgb(30, 41, 59)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(248, 250, 252)",
+      "font-family": "\"Archivo Black\", \"Archivo Black Fallback\", sans-serif",
+      "font-size": "16px",
+      "line-height": "24px",
+      "text-decoration": "none",
+      "overflow": "clip",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box; border: 0px solid rgb(229, 231, 235);"
+      },
+      {
+        "selector": "img, svg, video, canvas, audio, iframe, embed, object",
+        "css": "vertical-align: middle; display: block;"
+      },
+      {
+        "selector": "*",
+        "css": "border-color: hsl(var(--border));"
+      },
+      {
+        "selector": "*, ::before, ::after, ::backdrop",
+        "css": "--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: #3b82f680; --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;"
+      }
+    ]
+  }
+]
